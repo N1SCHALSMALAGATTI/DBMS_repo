@@ -1,2 +1,1 @@
-# DBMS_repo
-Project for college 
+Jai shree ram
